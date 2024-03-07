@@ -1,7 +1,7 @@
 # Ford GoBike System_exploration
 
 ## Introduction
->This project was developed as a part of ALX Africa-Udacity Data Analysis NanoDegree. It is the final evaluation to get the certificate 
+>This project was developed as a part of ALX Africa-Udacity Data Analysis NanoDegree Scholarship. It is the final evaluation to get the certificate 
 >It is divided in two parts:
 >1. Exploratory analysis: it includes univariate exploration, bivariate exploration and multivariate exploration
 >2. Explanatory analysis: it is  presentation including some visualization using the cleaned dataset
